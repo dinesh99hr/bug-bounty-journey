@@ -1,6 +1,3 @@
-# bug-bounty-journey - Dinesh
-My journey to become a bug bounty hunter
-
 # Bug Bounty Journey – Dinesh
 
 > My journey to become a Bug Bounty Hunter 
