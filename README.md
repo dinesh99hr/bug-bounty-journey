@@ -48,9 +48,11 @@ Goal: Become a professional **Penetration Tester**
 - Command Injection
 
 ---
-
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh99hr&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh99hr&show_icons=true&theme=tokyonight)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh99hr&layout=compact&theme=tokyonight)
 
 ---
 
