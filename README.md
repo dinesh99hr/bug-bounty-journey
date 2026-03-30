@@ -50,7 +50,7 @@ Goal: Become a professional **Penetration Tester**
 ---
 
 ## GitHub Stats
-![Dinesh GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh99hr&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh99hr&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
